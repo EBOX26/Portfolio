@@ -16,3 +16,10 @@ When opened this webpage will show:
     -images in work section set as links to corresponding deployed applications,
 
 This webpage has a responsive layout. Done so using @media queries, and flexbox.
+
+Here are the finished screenshots:
+![Alt text](screenshot-1.png)
+![Alt text](screenshot-2.png)
+
+Here is the URL for the deployed application:
+https://ebox26.github.io/Portfolio/
